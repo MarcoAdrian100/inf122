@@ -1,0 +1,49 @@
+body {
+    /*background-color: #808080;*/
+    background-color: #e0e0d9;
+
+}
+
+h1 {
+    color: #c4458f;
+    font-size: 48px;
+    text-align: center;
+}
+h2{
+    color: #547d8d;
+}
+p{
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+}
+img {
+    width: 40%;
+}
+input[type="submit"] {
+    background-color: #2ddf44; 
+    color: #272625; 
+    border-radius: 15px;
+}
+input[type="text"]{
+    border-radius: 5px;
+    border-color: black;
+    background-color: rgb(181, 161, 219);
+}
+
+.nom{
+    padding: 2px;
+    color: rgb(240, 9, 9);
+    background-color: #f56c95;
+}
+
+
+ol li{
+    font-size: 30px;
+    color: blueviolet;
+}
+ul li{
+    background-color: chartreuse;
+    color: blue;
+    text-align: center;
+}
