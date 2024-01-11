@@ -1,3 +1,3 @@
-NOMBRE:Marco Adrian Cori Heredia
+#NOMBRE:Marco Adrian Cori Heredia
 MATERIA: Inf122
 COLOR FAVORITO: F0F0F0
