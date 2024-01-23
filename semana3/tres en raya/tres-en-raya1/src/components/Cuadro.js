@@ -9,4 +9,6 @@ function Cuadro({ valor }) {
     );
 }
 
+
+
 export default Cuadro;

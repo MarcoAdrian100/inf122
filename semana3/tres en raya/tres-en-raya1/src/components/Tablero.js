@@ -2,7 +2,6 @@ import React from 'react';
 import '../style/Tablero.css';
 import Cuadro from './Cuadro';
 function Tablero() {
-
     return (
         <div className="tablero">
             <Cuadro valor={0} />
@@ -15,7 +14,6 @@ function Tablero() {
             <Cuadro valor={7} />
             <Cuadro valor={8} />
         </div>
-
     );
 }
 

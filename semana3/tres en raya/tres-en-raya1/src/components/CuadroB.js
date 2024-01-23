@@ -8,5 +8,4 @@ function CuadroB({ valor, funcion }) {
         </button>
     );
 }
-
 export default CuadroB;
